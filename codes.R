@@ -1,3 +1,5 @@
 names(mtcars)
 dim(mtcars)
 summary(mtcars)
+x <- rnorm(100)
+plot(x)
